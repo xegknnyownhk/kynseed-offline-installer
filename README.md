@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Embark on a lifetime of adventure in a beautiful world of creativity and intrigue. Raise a family, customise your farm, run a business, craft items, and battle some marvellously malevolent monsters.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel Core i3 | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | DirectX 11 Compatible Video Card | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 550 MB available space | 550 MB available space |
+| **OS *** | Windows 7 or Higher | Windows 7 or Higher |
 
 ---
 
